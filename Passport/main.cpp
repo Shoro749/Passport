@@ -10,4 +10,5 @@ int main() {
 	delete foreignpassport;
 
 	return 0;
+
 }
